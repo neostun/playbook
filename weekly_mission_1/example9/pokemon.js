@@ -1,0 +1,10 @@
+class pokemon {
+
+}
+
+sayHello(){
+
+}
+sayMessage(){
+    
+}
