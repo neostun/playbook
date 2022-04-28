@@ -1,6 +1,6 @@
 // Ejemplo 5: Objeto con método que recibe parámetros
 const myPet = {
-    name: "Woopa", //este es el nombre del que saluda
+    name: "Woopa", //este es el nombre de la mascota que saluda
     sayHelloToMyPet: function(yourPet){ //se declara una función y tiene una variable como parámetro
         console.log(`${this.name} le dice hola a ${yourPet}`) //se envía a consola el saludo
     }
